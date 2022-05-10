@@ -16,3 +16,6 @@ https://oyelekeoyeyemi.github.io/LA558_2022/web/Assignment_3/assignment3.html
 
 <h2>Assignment_4</h2>
 https://oyelekeoyeyemi.github.io/LA558_2022/web/Assignment4.html
+
+<h2>Project</h2>
+https://oyelekeoyeyemi.github.io/LA558_2022/web/project.html
