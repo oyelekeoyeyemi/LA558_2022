@@ -6,4 +6,10 @@ along with other course materials. This repo is updated prior to each lecture.
 Students can read from this repository, but can't post to it.
 
 
-<h2>Assignment_2</h2>https://oyelekeoyeyemi.github.io/LA558_2022/web/assignment2.html
+<h2>Assignment_2</h2>
+
+https://oyelekeoyeyemi.github.io/LA558_2022/web/assignment2.html
+
+<h2>Assignment_3</h2>
+
+https://oyelekeoyeyemi.github.io/LA558_2022/web/Assignment_3/assignment3.html
