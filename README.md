@@ -1,7 +1,7 @@
 # LA 558 Web Mapping and Data Visulizataion 
 This is Oyeleke Oyeyemi course repository for Spring 2022 Landscape Architecture 558 course.
   
-In this repo you will find files to support the project, abstract and assignments  .
+In this repo you will find files to support the project, abstract and assignments.
 
 
 <h2>Abstract</h2>
